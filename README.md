@@ -1,5 +1,7 @@
 # Champ-Select Coach — Téléchargements
 
+*[English version](README.en.md)*
+
 Assistant de champ select pour League of Legends : picks/bans automatiques, briefing IA, fiches champions, annonces vocales.
 
 **[Télécharger la dernière version](https://github.com/lucbruno/champ-select-coach-releases/releases/latest)** — fichier « Champ-Select Coach Setup x.y.z.exe ».
